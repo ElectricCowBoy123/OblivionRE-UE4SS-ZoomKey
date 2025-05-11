@@ -17,3 +17,5 @@ A UE4SS script to zoom in when the right mouse button is held when the weapon is
 
 # Support:
 - For any issues or feedback, please don't hesistate to reach out to me
+
+https://www.nexusmods.com/oblivionremastered/mods/2872
